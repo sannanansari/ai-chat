@@ -1,4 +1,4 @@
-name = "ai-chat-worker"
+name = "ai-chat"
 [assets]
 directory = "./dist/ai-chat/browser"
 compatibility_date = "2026-06-10"
